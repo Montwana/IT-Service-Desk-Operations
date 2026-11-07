@@ -86,8 +86,6 @@ James subsequently confirmed that network access was restored.
 
 **Result:** Internet and internal network connectivity restored.
 
-![Closed Ticket](../screenshots/incident-003-network-closed.png)
-
 ## Skills Demonstrated
 
 - IT ticket management using Spiceworks.
