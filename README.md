@@ -34,13 +34,24 @@ The project uses **Spiceworks Cloud Help Desk** to simulate a business IT suppor
 
 ## 🎫 Simulated Support Incidents
 
-The project includes three documented incident scenarios covering common workplace IT support issues.
+The project includes multiple simulated IT support scenarios covering common workplace technical issues. Each incident includes the reported problem, investigation, troubleshooting steps, actions taken and final resolution.
 
-| Incident | Issue | Technical Focus |
-|---|---|---|
-| INC001 | Outlook connectivity issue | Microsoft 365 and add-in troubleshooting |
-| INC002 | Printer connectivity issue | Printer configuration and Print Spooler |
-| INC003 | Network connectivity issue | IP configuration and DHCP |
+### Incident Categories
+
+| Category | Examples |
+|---|---|
+| Application Support | Outlook and Microsoft 365 issues |
+| Hardware Support | Printer and device issues |
+| Network Support | Connectivity, IP configuration and DHCP |
+| Software Support | Slow computers and high resource usage |
+
+### Documented Incidents
+
+View the individual incident reports for detailed troubleshooting steps, findings and resolutions.
+
+- [View All Incident Reports](tickets/)
+
+*New incidents and troubleshooting scenarios will be added as the project grows.*
 
 ### Key Outcomes
 
