@@ -53,14 +53,6 @@ View the individual incident reports for detailed troubleshooting steps, finding
 
 *New incidents and troubleshooting scenarios will be added as the project grows.*
 
-### Key Outcomes
-
-- Identified a simulated Outlook add-in conflict.
-- Investigated an incorrect printer port configuration.
-- Identified an incorrect network IP configuration.
-- Documented corrective actions and verification steps.
-- Recorded simulated user feedback and ticket outcomes.
-
 ## 📚 Knowledge Base
 
 Created reusable troubleshooting guides to support consistent incident resolution.
