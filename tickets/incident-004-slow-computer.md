@@ -134,11 +134,16 @@ She confirmed that:
 
 ## 8. Evidence
 
-1. ![Original Spiceworks Ticket](../screenshots/incident-4/ticket-overview.png)
-2. ![Initial Task Manager Readings](../screenshots/incident-4/initial-task-manager.png)
-3. ![Memory Investigation](../screenshots/incident-4/memory-investigation.png)
-4. ![Startup Applications](../screenshots/incident-4/startup-apps.png)
-5. ![Final Performance Readings](../screenshots/incident-4/final-performance.png)
-6. ![Resolved Spiceworks Ticket](../screenshots/incident-4/resolved-ticket.png)
+ ![Original Spiceworks Ticket](../screenshots/incident-4/ticket-overview.png)
+ 
+ ![Initial Task Manager Readings](../screenshots/incident-4/initial-task-manager.png)
+ 
+ ![Memory Investigation](../screenshots/incident-4/memory-investigation.png)
+ 
+ ![Startup Applications](../screenshots/incident-4/startup-apps.png)
+ 
+ ![Final Performance Readings](../screenshots/incident-4/final-performance.png)
+ 
+ ![Resolved Spiceworks Ticket](../screenshots/incident-4/resolved-ticket.png)
 
 *Note: This incident was completed as a simulated IT support exercise. Performance readings and user responses are illustrative and were not collected from an actual remote computer.*
